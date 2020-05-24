@@ -1,4 +1,4 @@
 
-RoboFriends
+#RoboFriends
 
-ZTM. React: class, this.state.
+ZTM. React + Redux
