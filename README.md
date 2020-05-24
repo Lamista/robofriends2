@@ -1,2 +1,4 @@
-# robofriends2
-React + Redux
+
+RoboFriends
+
+ZTM. React: class, this.state.
