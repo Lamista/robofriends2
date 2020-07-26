@@ -1,4 +1,4 @@
 
 # RoboFriends
 
-ZTM. React + Redux
+ React + Redux
